@@ -1,0 +1,2 @@
+# hospitals
+Beds and Ventilators
